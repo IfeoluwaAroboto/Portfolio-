@@ -1,0 +1,45 @@
+.Text { 
+    color:black;
+    text-align: center;
+    padding-top: 70px;
+}
+.Text h1{ margin-left: 160px;
+    padding-right:60px ;
+}
+.heading{
+    color:black;
+}
+#ife{ margin-left: 90px;
+width: 250px;
+height:250px;
+}
+.Text h6{ text-align: center;
+    margin-left: 60px;
+    font-size: 20px;
+}
+.hero-btn{
+    margin-left: 60px;
+}
+span{
+    color: darksalmon;
+}
+#hire{
+    background-color: black;
+  }
+  #download{
+    background-color: darksalmon;
+  }
+  
+@media screen and (max-width:450px){
+    #ife{ margin-left: 90px;
+        width: 150px;
+        height:150px;
+        }
+        .Text h6{ text-align: center;
+          
+        }
+        .Text h1{
+    font-size: 20px;
+    margin-left: 160px;
+        }
+}

@@ -1,0 +1,17 @@
+
+.section{  margin-left: 100px;
+    padding-top: 98px;
+}
+.about-text {
+    line-height: 2;
+    max-width: 45em;
+    margin: 0 auto;
+    margin-top: 2rem;
+  }
+.title h2{
+    text-align:center;
+}
+ span {
+    color: darksalmon;
+    font-size: 0.85em;
+  }

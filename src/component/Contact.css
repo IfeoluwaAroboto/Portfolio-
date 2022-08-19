@@ -1,0 +1,19 @@
+
+#contact { margin-left:80px;
+    padding-top: 130px;
+ }
+    #contact h1{
+      color: black; }
+  
+  .contact-social-icons p { font-size: 25px;
+    color: black; }
+  .contact-social-icons ul a {
+    color: black;
+    list-style: none; }
+    .contact-social-icons ul a:hover {
+      color:darksalmon; }
+    .contact-social-icons ul a li {
+        font-size: 20px;
+      display: inline-block;
+      padding: 2%; }
+  
